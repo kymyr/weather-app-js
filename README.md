@@ -7,7 +7,7 @@
 ## Search for cities, and get real-time weather information
 <img width="1132" alt="image" src="https://github.com/kymyr/weather-app-js/assets/62489380/88077e77-cee4-4213-b64a-d618c69b0dcf">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Credits for the assets belongs to [Freepik, starline & rawpixel.com](https://www.freepik.com).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Styling made possible with [Sass](https://sass-lang.com). Credits for the assets belong to [Freepik, starline & rawpixel.com](https://www.freepik.com).
 
 ## Pre-requisite:
 
